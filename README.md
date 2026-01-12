@@ -65,20 +65,11 @@ Each project demonstrates **clean architecture, database integration and real-wo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElianaFlores&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElianaFlores" />
-</p>
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/ElianaFlores  
+- GitHub: https://github.com/Elianaf03  
 
 I am currently focused on strengthening my skills with **modern .NET technologies** and building a professional software portfolio.
