@@ -3,7 +3,7 @@
 <h3 align="center">University Programmer Analyst | C# & .NET Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/ElianaFlores">
+  <a href="https://github.com/Elianaf03">
     <img src="https://komarev.com/ghpvc/?username=ElianaFlores&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
@@ -70,6 +70,7 @@ Each project demonstrates **clean architecture, database integration and real-wo
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Elianaf03  
+- GitHub: https://github.com/Elianaf03
+- LinkedIn: www.linkedin.com/in/eliana-flores-01726a2a0  
 
 I am currently focused on strengthening my skills with **modern .NET technologies** and building a professional software portfolio.
