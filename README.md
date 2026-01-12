@@ -1,16 +1,84 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Eliana Flores</h1>
+<h3 align="center">University Programmer Analyst | C# & .NET Developer</h3>
 
-<!--
-**Elianaf03/Elianaf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/ElianaFlores">
+    <img src="https://komarev.com/ghpvc/?username=ElianaFlores&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+🎓 **University Programmer Analyst**  
+📍 Argentina  
+
+I specialize in building **desktop and data-driven applications** using **C# and .NET**.  
+I enjoy designing the **logic that connects user interfaces with databases and business rules**, creating systems that are robust, clear and easy to use.
+
+I have worked on multiple real-world style projects such as **library systems, pet adoption platforms, medical appointment managers, reporting tools and email utilities**.
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 What I Can Build
+
+- CRUD applications (Create, Read, Update, Delete)
+- User authentication and validation
+- Database-driven systems
+- Reports and master–detail views
+- Desktop interfaces with Windows Forms
+- Business logic with Object-Oriented Programming
+
+---
+
+## 📂 Featured Projects
+
+Here are some examples of what you will find in my repositories:
+
+- 📚 **Library Management System**  
+  Manage books, users and loans with reports and search tools.
+
+- 🐾 **Pet Adoption System**  
+  Register pets, adopters and track the adoption process.
+
+- 🏥 **Medical Appointments System**  
+  Manage doctors, patients and appointment scheduling.
+
+- 📊 **Reporting & Master-Detail Apps**  
+  Applications focused on structured data visualization.
+
+Each project demonstrates **clean architecture, database integration and real-world logic**.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElianaFlores&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElianaFlores" />
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/ElianaFlores  
+
+I am currently focused on strengthening my skills with **modern .NET technologies** and building a professional software portfolio.
