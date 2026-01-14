@@ -49,7 +49,7 @@ I have worked on multiple real-world style projects such as **library systems, p
 
 Here are some examples of what you will find in my repositories:
 
-- 📚 **Library Management System**  
+- 📚 **[Library Management System](https://github.com/Elianaf03/LibraryManagementSystem)**  
   Manage books, users and loans with reports and search tools.
 
 - 🐾 **Pet Adoption System**  
