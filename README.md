@@ -52,8 +52,8 @@ Here are some examples of what you will find in my repositories:
 - 📚 **[Library Management System](https://github.com/Elianaf03/LibraryManagementSystem)**  
   Manage books, users and loans with reports and search tools.
 
-- 🐾 **Pet Adoption System**  
-  Register pets, adopters and track the adoption process.
+- 🐾 **[Pet Adoption Management System](https://github.com/Elianaf03/PetAdoptionManagementSystem)**  
+  Desktop application to manage the full adoption process with multiple user roles, reports and sponsorship system.
 
 - 🏥 **Medical Appointments System**  
   Manage doctors, patients and appointment scheduling.
